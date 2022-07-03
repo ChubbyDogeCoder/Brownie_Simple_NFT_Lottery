@@ -1,0 +1,38 @@
+[
+    {
+        "name": "ChubbyDodeCoder",
+        "description": "N00b Creater",
+        "Is a full stack dev?": "false",
+        "Is chubby?": [
+            "false",
+            "almost"
+        ],
+        "Abilities": [
+            {
+                "defi": "false",
+                "NFT": "true",
+                "HardHat": [
+                    "false",
+                    "Soon",
+                    [
+                        "6",
+                        "9",
+                        "0",
+                        "false"
+                    ]
+                ],
+                "favorite_Number": 6699
+            }
+        ]
+    },
+    {
+        "name": "ChubbyDodeCoder_V2",
+        "description": "N00b Creater_Loading",
+        "Is a full stack dev?": "false",
+        "Is chubby?": [
+            "false",
+            "Not Yet"
+        ],
+        "Abilities": null
+    }
+]
